@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-kuriki\Ecsite\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4184324318.index
+1777031210.index
+1694740144.index
+1141735153.index
+2526081183.index
+2455646564.index
