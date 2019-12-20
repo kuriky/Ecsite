@@ -1,0 +1,5 @@
+package com.internousdev.templateEC.dao;
+
+public class MyPageDAO {
+
+}
