@@ -37,6 +37,7 @@
 					</td>
 				</tr>
 				<tr>
+					<td>支払方法</td>
 					<td><s:property value="session.pay" /></td>
 				</tr>
 				<tr>

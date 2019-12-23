@@ -42,3 +42,13 @@
 0:0:0:0:0:0:0:1 - - [20/Dec/2019:20:15:20 +0900] "POST /templateEC/BuyItemAction.action HTTP/1.1" 200 1064
 0:0:0:0:0:0:0:1 - - [20/Dec/2019:20:15:23 +0900] "POST /templateEC/BuyItemConfirmAction.action HTTP/1.1" 200 566
 0:0:0:0:0:0:0:1 - - [20/Dec/2019:20:18:31 +0900] "GET /templateEC/MyPageAction.action HTTP/1.1" 200 3525
+127.0.0.1 - - [20/Dec/2019:21:41:37 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:41:40 +0900] "GET /templateEC/home.jsp HTTP/1.1" 200 626
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:41:41 +0900] "POST /templateEC/HomeAction.action HTTP/1.1" 200 1152
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:41:53 +0900] "POST /templateEC/LoginAction.action HTTP/1.1" 200 1723
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:42:11 +0900] "POST /templateEC/BuyItemAction.action HTTP/1.1" 200 1064
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:42:13 +0900] "POST /templateEC/BuyItemConfirmAction.action HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:42:16 +0900] "GET /templateEC/MyPageAction.action HTTP/1.1" 200 26678
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:43:33 +0900] "GET /templateEC/HomeAction.action HTTP/1.1" 200 1152
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:43:47 +0900] "GET /templateEC/myPage.jsp HTTP/1.1" 200 540
+0:0:0:0:0:0:0:1 - - [20/Dec/2019:21:43:51 +0900] "GET /templateEC/HomeAction.action HTTP/1.1" 200 1152

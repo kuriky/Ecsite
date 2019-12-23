@@ -9,7 +9,7 @@ import com.internousdev.templateEC.dto.MyPageDTO;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class MyPageAction extends ActionSupport implements SessionAware{
-	private Map<String,Object> session;
+	private Map<String, Object> session;
 	private String deleteFlg;
 	private String result;
 	public String execute(){
@@ -50,14 +50,14 @@ public class MyPageAction extends ActionSupport implements SessionAware{
 		public String getDeleteFlg(){
 			return deleteFlg;
 		}
-		public void setDelete(String deleteFlg){
+		public void setDeleteFlg(String deleteFlg){
 			this.deleteFlg = deleteFlg;
 		}
-		public Map<String,Object>getSession(){
+		public Map<String, Object>getSession(){
 			return session;
 		}
 		@Override
-		public void setSession(Map<String,Object>session){
+		public void setSession(Map<String, Object> session){
 			this.session = session;
 		}
 
