@@ -1,0 +1,5 @@
+package com.internousdev.ecsiteEC.dao;
+
+public class BuyItemDAO {
+
+}

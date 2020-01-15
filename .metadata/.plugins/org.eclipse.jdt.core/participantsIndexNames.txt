@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\testuser\Desktop\workspace\workspace-kuriki\Ecsite\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3770795976.index
+\ecsiteEC\src
+C:\Users\testuser\Desktop\workspace\workspace-kuriki\Ecsite\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2526081183.index
+\templateEC\src
