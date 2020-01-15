@@ -16,13 +16,13 @@
 		</div>
 		<div>
 			<s:if test="errorMessage !=”">
-				<s:property value="errorMessage"escape="false" />
+				<s:property value="errorMessage" escape="false" />
 			</s:if>
 			<table>
 			<s:form action="UserCreateConfilmAction">
 				<tr>
 					<td>
-						<label>ログインID</label>
+						<label>ログインID:</label>
 					</td>
 					<td>
 						<input type="text" name="loginUserId"value="" />
@@ -30,10 +30,18 @@
 				</tr>
 				<tr>
 					<td>
-						<label>ログインPASS</label>
+						<label>ログインPASS:</label>
 					</td>
 					<td>
-						<input type="text"name="userName"value=""/>
+						<input type="text" name="loginPassword"value=""/>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label>ユーザー名:</label>
+					</td>
+					<td>
+						<input type="text" name="userName" value="" />
 					</td>
 				</tr>
 				<s:submit value="登録"/>
