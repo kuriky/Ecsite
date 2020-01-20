@@ -19,7 +19,7 @@
 				<s:property value="errorMessage" escape="false" />
 			</s:if>
 			<table>
-			<s:form action="UserCreateConfilmAction">
+			<s:form action="UserCreateConfirmAction">
 				<tr>
 					<td>
 						<label>ログインID:</label>
@@ -33,7 +33,7 @@
 						<label>ログインPASS:</label>
 					</td>
 					<td>
-						<input type="text" name="loginPassword"value=""/>
+						<input type="text" name="loginPassword"value="" />
 					</td>
 				</tr>
 				<tr>

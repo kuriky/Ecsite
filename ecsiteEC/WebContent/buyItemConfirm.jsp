@@ -10,7 +10,7 @@
 <title>BuyItemConfirm画面</title>
 
 	<script type="text/javascript">
-		function submitAcction(url){
+		function submitAction(url){
 			$('form').attr('action',url);
 			$('form').submit();
 		}
